@@ -1,0 +1,2860 @@
+UNRECOGNIZED_MESSAGE
+Received Message: len: 75 bytes: [240 0 33 21 48 16 3 114 3 14 72 97 114 109 110 105 99 32 66 108 105 115 115 32 32 32 32 0 22 66 40 18 99 0 2 1 100 100 92 1 3 25 1 0 65 84 1 70 1 0 3 57 35 55 0 0 3 44 58 68 56 1 3 1 5 53 37 3 4 1 2 3 4 247 13 ]
+Patch Committed: 11 Delay For You Too.
+Set Patch OK
+Control Modified: 52 1
+Modifying Control: 52 1
+Tuner: A5 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 61 1 ]
+Tuner: G#/Ab3 1
+MESSAGE_TUNER
+Received Message: len: 6 bytes: [160 36 1 160 24 2 ]
+Tuner: C3 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 40 2 ]
+Tuner: F1 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 21 2 ]
+Tuner: C3 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 40 2 ]
+Tuner: C3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 40 1 ]
+Tuner: F1 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 21 1 ]
+Tuner: C3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 40 1 ]
+Tuner: A#/Bb2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 26 1 ]
+Tuner: F3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 45 1 ]
+Tuner: F2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 33 1 ]
+Tuner: G#/Ab3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 36 1 ]
+Tuner: F1 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 21 1 ]
+Tuner: D3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 42 1 ]
+Tuner: D4 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 54 2 ]
+Tuner: D3 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 42 2 ]
+Tuner: F1 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 21 2 ]
+Tuner: F#/Gb1 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 22 2 ]
+Tuner: A#/Bb4 2
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 2 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: A#/Bb2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 26 1 ]
+Tuner: A4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 49 1 ]
+Tuner: D#/Eb1 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 19 1 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: D2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 30 1 ]
+Tuner: A#/Bb3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 38 1 ]
+Tuner: F3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 45 1 ]
+Tuner: D#/Eb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 55 1 ]
+Tuner: D#/Eb3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 43 1 ]
+Tuner: C#/Db7 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 89 1 ]
+Tuner: C7 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 88 1 ]
+Tuner: D2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 30 1 ]
+Tuner: C4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 52 1 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: A#/Bb3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 38 1 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: D#/Eb6 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 79 1 ]
+Tuner: C#/Db4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 53 1 ]
+Tuner: A#/Bb3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 38 1 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: D#/Eb2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 31 1 ]
+Tuner: C2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 28 1 ]
+Tuner: A#/Bb2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 26 1 ]
+Tuner: A4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 49 1 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: A#/Bb3 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 38 1 ]
+Tuner: D#/Eb2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 31 1 ]
+Tuner: A#/Bb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 50 1 ]
+Tuner: D#/Eb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 55 1 ]
+Tuner: F#/Gb6 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 82 1 ]
+Tuner: D#/Eb2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 31 1 ]
+Tuner: D4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 54 1 ]
+Tuner: D#/Eb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 55 1 ]
+Tuner: G2 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 35 1 ]
+Tuner: D#/Eb4 1
+MESSAGE_TUNER
+Received Message: len: 3 bytes: [160 55 1 ]
+Control Modified: 52 0
+Modifying Control: 52 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 20
+Modifying Control: 73 20
+Patch Modified: 55 Brit 50's         
+Control Modified: 111 67
+Modifying Control: 111 67
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 0
+Modifying Control: 104 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 50
+Received Message: len: 3 bytes: [176 106 50 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 89 24
+Modifying Control: 89 24
+Control Modified: 98 58
+Modifying Control: 98 58
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 4
+Modifying Control: 82 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 45
+Modifying Control: 75 45
+Control Modified: 101 27
+Modifying Control: 101 27
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 91
+Modifying Control: 81 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 2
+Modifying Control: 115 2
+Control Modified: 97 36
+Modifying Control: 97 36
+Patch Modified: 55 Brit 50's         
+Control Modified: 111 4
+Modifying Control: 111 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 53
+Modifying Control: 72 53
+Patch Modified: 55 Brit 50's         
+Control Modified: 112 82
+Modifying Control: 112 82
+Control Modified: 91 16
+Modifying Control: 91 16
+Control Modified: 88 95
+Modifying Control: 88 95
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 2
+Modifying Control: 117 2
+Control Modified: 91 38
+Modifying Control: 91 38
+Patch Modified: 55 Brit 50's         
+Control Modified: 89 12
+Modifying Control: 89 12
+Patch Modified: 55 Brit 50's         
+Control Modified: 87 99
+Modifying Control: 87 99
+Control Modified: 105 94
+Modifying Control: 105 94
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 11
+Modifying Control: 73 11
+Control Modified: 92 33
+Modifying Control: 92 33
+Control Modified: 93 64
+Modifying Control: 93 64
+Patch Modified: 55 Brit 50's         
+Control Modified: 111 11
+Modifying Control: 111 11
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 68
+Modifying Control: 73 68
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 4
+Modifying Control: 117 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 12
+Modifying Control: 82 12
+Control Modified: 107 59
+Modifying Control: 107 59
+Control Modified: 93 41
+Modifying Control: 93 41
+Control Modified: 99 78
+Modifying Control: 99 78
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 3
+Modifying Control: 86 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 28
+Received Message: len: 3 bytes: [176 102 28 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 110 42
+Modifying Control: 110 42
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 6
+Modifying Control: 108 6
+Control Modified: 110 42
+Modifying Control: 110 42
+Control Modified: 84 48
+Modifying Control: 84 48
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 5
+Modifying Control: 116 5
+Patch Modified: 55 Brit 50's         
+Control Modified: 110 29
+Modifying Control: 110 29
+Control Modified: 90 50
+Modifying Control: 90 50
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 1
+Modifying Control: 76 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 59
+Received Message: len: 3 bytes: [176 78 59 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 26
+Received Message: len: 3 bytes: [176 79 26 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 76
+Received Message: len: 3 bytes: [176 80 76 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 113 48
+Modifying Control: 113 48
+Control Modified: 99 23
+Modifying Control: 99 23
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 2
+Modifying Control: 104 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 2
+Received Message: len: 3 bytes: [176 106 2 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 0
+Modifying Control: 76 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 62
+Received Message: len: 3 bytes: [176 77 62 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 23
+Received Message: len: 3 bytes: [176 78 23 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 34
+Received Message: len: 3 bytes: [176 79 34 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 74
+Received Message: len: 3 bytes: [176 80 74 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 0
+Modifying Control: 86 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 58
+Received Message: len: 3 bytes: [176 102 58 ]
+Control Modified: 101 8
+Modifying Control: 101 8
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 39
+Modifying Control: 114 39
+Control Modified: 96 23
+Modifying Control: 96 23
+Control Modified: 107 38
+Modifying Control: 107 38
+Control Modified: 88 82
+Modifying Control: 88 82
+Control Modified: 99 41
+Modifying Control: 99 41
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 15
+Modifying Control: 103 15
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 2
+Modifying Control: 109 2
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 30
+Modifying Control: 74 30
+Control Modified: 97 6
+Modifying Control: 97 6
+Control Modified: 93 86
+Modifying Control: 93 86
+Control Modified: 91 45
+Modifying Control: 91 45
+Control Modified: 94 72
+Modifying Control: 94 72
+Control Modified: 90 29
+Modifying Control: 90 29
+Control Modified: 97 73
+Modifying Control: 97 73
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 4
+Modifying Control: 117 4
+Control Modified: 106 90
+Modifying Control: 106 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 36
+Modifying Control: 81 36
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 67
+Modifying Control: 75 67
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 74
+Modifying Control: 75 74
+Control Modified: 101 52
+Modifying Control: 101 52
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 50
+Modifying Control: 70 50
+Control Modified: 111 24
+Modifying Control: 111 24
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 2
+Modifying Control: 86 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 88
+Received Message: len: 3 bytes: [176 102 88 ]
+Control Modified: 77 91
+Modifying Control: 77 91
+Control Modified: 77 37
+Modifying Control: 77 37
+Control Modified: 77 87
+Modifying Control: 77 87
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 83
+Modifying Control: 73 83
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Control Modified: 79 58
+Modifying Control: 79 58
+Control Modified: 91 88
+Modifying Control: 91 88
+Control Modified: 92 46
+Modifying Control: 92 46
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 2
+Modifying Control: 76 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 50
+Received Message: len: 3 bytes: [176 78 50 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 50
+Received Message: len: 3 bytes: [176 79 50 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 50
+Received Message: len: 3 bytes: [176 80 50 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 68
+Modifying Control: 83 68
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 91
+Modifying Control: 70 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 10
+Modifying Control: 82 10
+Control Modified: 80 59
+Modifying Control: 80 59
+Control Modified: 94 37
+Modifying Control: 94 37
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 83
+Modifying Control: 118 83
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 50
+Modifying Control: 72 50
+Control Modified: 111 36
+Modifying Control: 111 36
+Control Modified: 94 20
+Modifying Control: 94 20
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 21
+Modifying Control: 116 21
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 99
+Modifying Control: 118 99
+Control Modified: 88 84
+Modifying Control: 88 84
+Control Modified: 101 34
+Modifying Control: 101 34
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 99
+Modifying Control: 73 99
+Control Modified: 88 38
+Modifying Control: 88 38
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 88
+Modifying Control: 70 88
+Control Modified: 97 67
+Modifying Control: 97 67
+Control Modified: 98 93
+Modifying Control: 98 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 83
+Modifying Control: 118 83
+Control Modified: 77 21
+Modifying Control: 77 21
+Control Modified: 80 17
+Modifying Control: 80 17
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 14
+Modifying Control: 83 14
+Control Modified: 79 16
+Modifying Control: 79 16
+Control Modified: 105 51
+Modifying Control: 105 51
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 49
+Modifying Control: 70 49
+Control Modified: 89 56
+Modifying Control: 89 56
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 3
+Modifying Control: 118 3
+Control Modified: 94 8
+Modifying Control: 94 8
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 9
+Modifying Control: 114 9
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 2
+Modifying Control: 109 2
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Control Modified: 113 43
+Modifying Control: 113 43
+Control Modified: 93 87
+Modifying Control: 93 87
+Control Modified: 84 3
+Modifying Control: 84 3
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 0
+Modifying Control: 118 0
+Control Modified: 78 18
+Modifying Control: 78 18
+Control Modified: 100 96
+Modifying Control: 100 96
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 81
+Modifying Control: 118 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 2
+Modifying Control: 109 2
+Control Modified: 79 57
+Modifying Control: 79 57
+Control Modified: 92 22
+Modifying Control: 92 22
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 92
+Modifying Control: 108 92
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 79
+Modifying Control: 108 79
+Control Modified: 110 57
+Modifying Control: 110 57
+Control Modified: 78 91
+Modifying Control: 78 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 88
+Modifying Control: 85 88
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 3
+Modifying Control: 76 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 24
+Received Message: len: 3 bytes: [176 77 24 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 93
+Received Message: len: 3 bytes: [176 78 93 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 56
+Received Message: len: 3 bytes: [176 79 56 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 95
+Received Message: len: 3 bytes: [176 80 95 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 34
+Modifying Control: 72 34
+Control Modified: 92 55
+Modifying Control: 92 55
+Control Modified: 98 46
+Modifying Control: 98 46
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 11
+Modifying Control: 82 11
+Control Modified: 95 33
+Modifying Control: 95 33
+Control Modified: 89 42
+Modifying Control: 89 42
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 16
+Modifying Control: 114 16
+Control Modified: 101 98
+Modifying Control: 101 98
+Control Modified: 92 51
+Modifying Control: 92 51
+Control Modified: 91 99
+Modifying Control: 91 99
+Control Modified: 77 76
+Modifying Control: 77 76
+Control Modified: 112 89
+Modifying Control: 112 89
+Control Modified: 95 12
+Modifying Control: 95 12
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 10
+Modifying Control: 70 10
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 69
+Modifying Control: 73 69
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 88
+Modifying Control: 81 88
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 89
+Modifying Control: 71 89
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 23
+Modifying Control: 75 23
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 85
+Modifying Control: 72 85
+Control Modified: 102 85
+Modifying Control: 102 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 26
+Modifying Control: 108 26
+Control Modified: 87 57
+Modifying Control: 87 57
+Control Modified: 102 32
+Modifying Control: 102 32
+Control Modified: 89 54
+Modifying Control: 89 54
+Control Modified: 91 89
+Modifying Control: 91 89
+Control Modified: 96 29
+Modifying Control: 96 29
+Control Modified: 88 92
+Modifying Control: 88 92
+Control Modified: 95 55
+Modifying Control: 95 55
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 1
+Modifying Control: 104 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 50
+Received Message: len: 3 bytes: [176 106 50 ]
+Control Modified: 111 12
+Modifying Control: 111 12
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 0
+Modifying Control: 115 0
+Control Modified: 88 53
+Modifying Control: 88 53
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 3
+Modifying Control: 109 3
+Control Modified: 99 96
+Modifying Control: 99 96
+Control Modified: 107 29
+Modifying Control: 107 29
+Control Modified: 119 37
+Modifying Control: 119 37
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 1
+Modifying Control: 86 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 32
+Received Message: len: 3 bytes: [176 102 32 ]
+Control Modified: 113 95
+Modifying Control: 113 95
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 0
+Modifying Control: 117 0
+Control Modified: 106 5
+Modifying Control: 106 5
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 82
+Modifying Control: 108 82
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 34
+Modifying Control: 75 34
+Control Modified: 84 1
+Modifying Control: 84 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 3
+Modifying Control: 86 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 28
+Received Message: len: 3 bytes: [176 102 28 ]
+Control Modified: 106 63
+Modifying Control: 106 63
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 55
+Modifying Control: 83 55
+Control Modified: 105 53
+Modifying Control: 105 53
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 8
+Modifying Control: 82 8
+Control Modified: 102 45
+Modifying Control: 102 45
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 56
+Modifying Control: 83 56
+Control Modified: 91 58
+Modifying Control: 91 58
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 82
+Modifying Control: 116 82
+Control Modified: 101 44
+Modifying Control: 101 44
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 22
+Modifying Control: 116 22
+Control Modified: 99 61
+Modifying Control: 99 61
+Control Modified: 105 50
+Modifying Control: 105 50
+Control Modified: 93 66
+Modifying Control: 93 66
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 59
+Modifying Control: 114 59
+Control Modified: 112 39
+Modifying Control: 112 39
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 24
+Modifying Control: 73 24
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 10
+Modifying Control: 74 10
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Control Modified: 106 13
+Modifying Control: 106 13
+Control Modified: 94 22
+Modifying Control: 94 22
+Control Modified: 88 18
+Modifying Control: 88 18
+Control Modified: 107 5
+Modifying Control: 107 5
+Control Modified: 78 91
+Modifying Control: 78 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 25
+Modifying Control: 72 25
+Control Modified: 97 14
+Modifying Control: 97 14
+Control Modified: 84 24
+Modifying Control: 84 24
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 2
+Modifying Control: 104 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 2
+Received Message: len: 3 bytes: [176 106 2 ]
+Control Modified: 92 59
+Modifying Control: 92 59
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 70
+Modifying Control: 103 70
+Control Modified: 107 97
+Modifying Control: 107 97
+Control Modified: 88 77
+Modifying Control: 88 77
+Control Modified: 93 70
+Modifying Control: 93 70
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 68
+Modifying Control: 83 68
+Control Modified: 112 85
+Modifying Control: 112 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 80
+Modifying Control: 72 80
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 27
+Modifying Control: 83 27
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 99
+Modifying Control: 72 99
+Control Modified: 97 25
+Modifying Control: 97 25
+Control Modified: 113 24
+Modifying Control: 113 24
+Control Modified: 93 72
+Modifying Control: 93 72
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 81
+Modifying Control: 81 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 32
+Modifying Control: 73 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 93
+Modifying Control: 75 93
+Control Modified: 95 31
+Modifying Control: 95 31
+Control Modified: 112 42
+Modifying Control: 112 42
+Control Modified: 92 86
+Modifying Control: 92 86
+Control Modified: 84 0
+Modifying Control: 84 0
+Control Modified: 107 60
+Modifying Control: 107 60
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 74
+Modifying Control: 83 74
+Control Modified: 90 70
+Modifying Control: 90 70
+Control Modified: 105 33
+Modifying Control: 105 33
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 60
+Modifying Control: 81 60
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 67
+Modifying Control: 116 67
+Control Modified: 105 50
+Modifying Control: 105 50
+Control Modified: 110 94
+Modifying Control: 110 94
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 0
+Modifying Control: 115 0
+Control Modified: 89 25
+Modifying Control: 89 25
+Control Modified: 96 94
+Modifying Control: 96 94
+Control Modified: 78 2
+Modifying Control: 78 2
+Control Modified: 91 66
+Modifying Control: 91 66
+Control Modified: 98 93
+Modifying Control: 98 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 84
+Modifying Control: 71 84
+Control Modified: 88 64
+Modifying Control: 88 64
+Control Modified: 89 52
+Modifying Control: 89 52
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 87
+Modifying Control: 70 87
+Control Modified: 80 26
+Modifying Control: 80 26
+Control Modified: 80 57
+Modifying Control: 80 57
+Control Modified: 90 15
+Modifying Control: 90 15
+Control Modified: 96 27
+Modifying Control: 96 27
+Control Modified: 113 58
+Modifying Control: 113 58
+Control Modified: 84 9
+Modifying Control: 84 9
+Control Modified: 102 86
+Modifying Control: 102 86
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 87
+Modifying Control: 85 87
+Control Modified: 97 74
+Modifying Control: 97 74
+Control Modified: 95 27
+Modifying Control: 95 27
+Control Modified: 99 28
+Modifying Control: 99 28
+Control Modified: 93 20
+Modifying Control: 93 20
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 62
+Modifying Control: 72 62
+Control Modified: 93 96
+Modifying Control: 93 96
+Control Modified: 107 61
+Modifying Control: 107 61
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Control Modified: 84 60
+Modifying Control: 84 60
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 16
+Modifying Control: 72 16
+Control Modified: 100 26
+Modifying Control: 100 26
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 71
+Modifying Control: 81 71
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 47
+Modifying Control: 81 47
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 20
+Modifying Control: 73 20
+Control Modified: 110 24
+Modifying Control: 110 24
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 63
+Modifying Control: 108 63
+Control Modified: 110 51
+Modifying Control: 110 51
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 14
+Modifying Control: 82 14
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 13
+Modifying Control: 70 13
+Control Modified: 78 78
+Modifying Control: 78 78
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 7
+Modifying Control: 85 7
+Control Modified: 97 0
+Modifying Control: 97 0
+Control Modified: 78 39
+Modifying Control: 78 39
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 60
+Modifying Control: 73 60
+Control Modified: 77 24
+Modifying Control: 77 24
+Control Modified: 97 8
+Modifying Control: 97 8
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 87
+Modifying Control: 83 87
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 50
+Modifying Control: 71 50
+Control Modified: 80 28
+Modifying Control: 80 28
+Control Modified: 113 84
+Modifying Control: 113 84
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 40
+Modifying Control: 75 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 4
+Modifying Control: 81 4
+Control Modified: 105 56
+Modifying Control: 105 56
+Control Modified: 92 50
+Modifying Control: 92 50
+Control Modified: 93 85
+Modifying Control: 93 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 0
+Modifying Control: 76 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 87
+Received Message: len: 3 bytes: [176 77 87 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 23
+Received Message: len: 3 bytes: [176 78 23 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 58
+Received Message: len: 3 bytes: [176 79 58 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 74
+Received Message: len: 3 bytes: [176 80 74 ]
+Control Modified: 96 57
+Modifying Control: 96 57
+Control Modified: 96 57
+Modifying Control: 96 57
+Control Modified: 107 71
+Modifying Control: 107 71
+Control Modified: 89 61
+Modifying Control: 89 61
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 22
+Modifying Control: 116 22
+Control Modified: 87 12
+Modifying Control: 87 12
+Control Modified: 87 96
+Modifying Control: 87 96
+Control Modified: 105 41
+Modifying Control: 105 41
+Control Modified: 93 29
+Modifying Control: 93 29
+Control Modified: 99 65
+Modifying Control: 99 65
+Control Modified: 79 32
+Modifying Control: 79 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 55
+Modifying Control: 116 55
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 62
+Modifying Control: 73 62
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 2
+Modifying Control: 104 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 2
+Received Message: len: 3 bytes: [176 106 2 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 72
+Modifying Control: 74 72
+Control Modified: 77 69
+Modifying Control: 77 69
+Control Modified: 102 63
+Modifying Control: 102 63
+Control Modified: 77 83
+Modifying Control: 77 83
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 35
+Modifying Control: 81 35
+Control Modified: 87 48
+Modifying Control: 87 48
+Control Modified: 95 38
+Modifying Control: 95 38
+Control Modified: 93 42
+Modifying Control: 93 42
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 11
+Modifying Control: 74 11
+Control Modified: 111 75
+Modifying Control: 111 75
+Control Modified: 79 25
+Modifying Control: 79 25
+Control Modified: 91 70
+Modifying Control: 91 70
+Control Modified: 96 34
+Modifying Control: 96 34
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 83
+Modifying Control: 75 83
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 98
+Modifying Control: 70 98
+Control Modified: 99 1
+Modifying Control: 99 1
+Control Modified: 113 34
+Modifying Control: 113 34
+Control Modified: 107 34
+Modifying Control: 107 34
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 1
+Modifying Control: 76 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 59
+Received Message: len: 6 bytes: [176 78 59 176 79 26 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 76
+Received Message: len: 3 bytes: [176 80 76 ]
+Control Modified: 96 5
+Modifying Control: 96 5
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 3
+Modifying Control: 82 3
+Control Modified: 101 0
+Modifying Control: 101 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 41
+Modifying Control: 83 41
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 55
+Modifying Control: 75 55
+Control Modified: 112 62
+Modifying Control: 112 62
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 77
+Modifying Control: 81 77
+Control Modified: 94 78
+Modifying Control: 94 78
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 43
+Modifying Control: 72 43
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 73
+Modifying Control: 116 73
+Control Modified: 110 13
+Modifying Control: 110 13
+Control Modified: 95 72
+Modifying Control: 95 72
+Control Modified: 88 10
+Modifying Control: 88 10
+Control Modified: 87 32
+Modifying Control: 87 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 5
+Modifying Control: 82 5
+Control Modified: 89 31
+Modifying Control: 89 31
+Control Modified: 110 88
+Modifying Control: 110 88
+Control Modified: 105 90
+Modifying Control: 105 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 1
+Modifying Control: 117 1
+Control Modified: 110 45
+Modifying Control: 110 45
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 14
+Modifying Control: 73 14
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 40
+Modifying Control: 71 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 58
+Modifying Control: 114 58
+Control Modified: 105 59
+Modifying Control: 105 59
+Control Modified: 112 5
+Modifying Control: 112 5
+Control Modified: 84 81
+Modifying Control: 84 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 29
+Modifying Control: 73 29
+Control Modified: 95 8
+Modifying Control: 95 8
+Control Modified: 112 97
+Modifying Control: 112 97
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 56
+Modifying Control: 119 56
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 27
+Modifying Control: 81 27
+Control Modified: 87 41
+Modifying Control: 87 41
+Control Modified: 99 40
+Modifying Control: 99 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 74
+Modifying Control: 83 74
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 77
+Modifying Control: 71 77
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 83
+Modifying Control: 85 83
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 92
+Modifying Control: 83 92
+Control Modified: 94 1
+Modifying Control: 94 1
+Control Modified: 112 59
+Modifying Control: 112 59
+Control Modified: 90 28
+Modifying Control: 90 28
+Control Modified: 97 84
+Modifying Control: 97 84
+Control Modified: 95 86
+Modifying Control: 95 86
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 70
+Modifying Control: 118 70
+Control Modified: 107 47
+Modifying Control: 107 47
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 3
+Modifying Control: 74 3
+Control Modified: 91 63
+Modifying Control: 91 63
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 3
+Modifying Control: 76 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 24
+Received Message: len: 3 bytes: [176 77 24 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 39
+Received Message: len: 3 bytes: [176 78 39 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 56
+Received Message: len: 3 bytes: [176 79 56 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 28
+Received Message: len: 3 bytes: [176 80 28 ]
+Control Modified: 80 71
+Modifying Control: 80 71
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 0
+Modifying Control: 109 0
+Control Modified: 84 42
+Modifying Control: 84 42
+Control Modified: 89 13
+Modifying Control: 89 13
+Control Modified: 111 4
+Modifying Control: 111 4
+Control Modified: 88 32
+Modifying Control: 88 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 5
+Modifying Control: 70 5
+Control Modified: 95 39
+Modifying Control: 95 39
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 22
+Modifying Control: 73 22
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 47
+Modifying Control: 118 47
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 0
+Modifying Control: 104 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 13
+Received Message: len: 3 bytes: [176 106 13 ]
+Control Modified: 91 64
+Modifying Control: 91 64
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 75
+Modifying Control: 83 75
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 0
+Modifying Control: 115 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 78
+Modifying Control: 116 78
+Control Modified: 89 62
+Modifying Control: 89 62
+Control Modified: 89 85
+Modifying Control: 89 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 0
+Modifying Control: 109 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 40
+Modifying Control: 85 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 0
+Modifying Control: 115 0
+Control Modified: 88 70
+Modifying Control: 88 70
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 23
+Modifying Control: 71 23
+Control Modified: 102 72
+Modifying Control: 102 72
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 87
+Modifying Control: 72 87
+Control Modified: 90 63
+Modifying Control: 90 63
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 3
+Modifying Control: 71 3
+Control Modified: 93 27
+Modifying Control: 93 27
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 69
+Modifying Control: 70 69
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 65
+Modifying Control: 85 65
+Control Modified: 98 43
+Modifying Control: 98 43
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 0
+Modifying Control: 117 0
+Control Modified: 113 37
+Modifying Control: 113 37
+Control Modified: 79 63
+Modifying Control: 79 63
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 81
+Modifying Control: 119 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 42
+Modifying Control: 108 42
+Control Modified: 78 60
+Modifying Control: 78 60
+Control Modified: 91 58
+Modifying Control: 91 58
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 88
+Modifying Control: 74 88
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 90
+Modifying Control: 116 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 43
+Modifying Control: 119 43
+Control Modified: 100 20
+Modifying Control: 100 20
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 67
+Modifying Control: 118 67
+Control Modified: 106 83
+Modifying Control: 106 83
+Control Modified: 105 26
+Modifying Control: 105 26
+Control Modified: 105 38
+Modifying Control: 105 38
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 29
+Modifying Control: 73 29
+Control Modified: 94 48
+Modifying Control: 94 48
+Control Modified: 93 59
+Modifying Control: 93 59
+Control Modified: 77 66
+Modifying Control: 77 66
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 55
+Modifying Control: 114 55
+Control Modified: 88 26
+Modifying Control: 88 26
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 25
+Modifying Control: 81 25
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 1
+Modifying Control: 75 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 96
+Modifying Control: 119 96
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 3
+Modifying Control: 104 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 83
+Received Message: len: 3 bytes: [176 106 83 ]
+Control Modified: 84 42
+Modifying Control: 84 42
+Control Modified: 95 13
+Modifying Control: 95 13
+Control Modified: 112 96
+Modifying Control: 112 96
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 72
+Modifying Control: 118 72
+Control Modified: 96 6
+Modifying Control: 96 6
+Control Modified: 93 29
+Modifying Control: 93 29
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 5
+Modifying Control: 74 5
+Control Modified: 96 12
+Modifying Control: 96 12
+Control Modified: 95 93
+Modifying Control: 95 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 36
+Modifying Control: 85 36
+Control Modified: 106 41
+Modifying Control: 106 41
+Control Modified: 84 94
+Modifying Control: 84 94
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 0
+Modifying Control: 76 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 83
+Received Message: len: 3 bytes: [176 77 83 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 23
+Received Message: len: 3 bytes: [176 78 23 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 25
+Received Message: len: 3 bytes: [176 79 25 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 74
+Received Message: len: 3 bytes: [176 80 74 ]
+Control Modified: 106 38
+Modifying Control: 106 38
+Control Modified: 102 55
+Modifying Control: 102 55
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 31
+Modifying Control: 85 31
+Control Modified: 100 41
+Modifying Control: 100 41
+Control Modified: 95 11
+Modifying Control: 95 11
+Control Modified: 107 86
+Modifying Control: 107 86
+Control Modified: 110 50
+Modifying Control: 110 50
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 4
+Modifying Control: 82 4
+Control Modified: 113 53
+Modifying Control: 113 53
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 0
+Modifying Control: 86 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 58
+Received Message: len: 3 bytes: [176 102 58 ]
+Control Modified: 78 62
+Modifying Control: 78 62
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 54
+Modifying Control: 103 54
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 34
+Modifying Control: 73 34
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 56
+Modifying Control: 73 56
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 24
+Modifying Control: 118 24
+Control Modified: 87 13
+Modifying Control: 87 13
+Control Modified: 79 28
+Modifying Control: 79 28
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 80
+Modifying Control: 70 80
+Control Modified: 88 58
+Modifying Control: 88 58
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 55
+Modifying Control: 70 55
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 64
+Modifying Control: 81 64
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 76
+Modifying Control: 73 76
+Control Modified: 113 9
+Modifying Control: 113 9
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 61
+Modifying Control: 72 61
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 0
+Modifying Control: 109 0
+Control Modified: 102 53
+Modifying Control: 102 53
+Control Modified: 94 20
+Modifying Control: 94 20
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 23
+Modifying Control: 72 23
+Control Modified: 101 69
+Modifying Control: 101 69
+Control Modified: 98 59
+Modifying Control: 98 59
+Control Modified: 78 19
+Modifying Control: 78 19
+Control Modified: 91 3
+Modifying Control: 91 3
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 92
+Modifying Control: 74 92
+Control Modified: 105 13
+Modifying Control: 105 13
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 89
+Modifying Control: 118 89
+Control Modified: 92 38
+Modifying Control: 92 38
+Control Modified: 107 10
+Modifying Control: 107 10
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 34
+Modifying Control: 81 34
+Control Modified: 78 61
+Modifying Control: 78 61
+Control Modified: 79 93
+Modifying Control: 79 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 69
+Modifying Control: 85 69
+Control Modified: 107 69
+Modifying Control: 107 69
+Control Modified: 78 0
+Modifying Control: 78 0
+Control Modified: 91 64
+Modifying Control: 91 64
+Control Modified: 87 15
+Modifying Control: 87 15
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 15
+Modifying Control: 75 15
+Control Modified: 100 39
+Modifying Control: 100 39
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 13
+Modifying Control: 82 13
+Control Modified: 102 54
+Modifying Control: 102 54
+Control Modified: 105 10
+Modifying Control: 105 10
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 2
+Modifying Control: 104 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 2
+Received Message: len: 3 bytes: [176 106 2 ]
+Control Modified: 100 15
+Modifying Control: 100 15
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 41
+Modifying Control: 71 41
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 79
+Modifying Control: 85 79
+Control Modified: 80 98
+Modifying Control: 80 98
+Control Modified: 93 88
+Modifying Control: 93 88
+Control Modified: 97 32
+Modifying Control: 97 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 1
+Modifying Control: 76 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 8
+Modifying Control: 83 8
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 59
+Received Message: len: 3 bytes: [176 78 59 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 26
+Received Message: len: 3 bytes: [176 79 26 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 76
+Received Message: len: 3 bytes: [176 80 76 ]
+Control Modified: 111 90
+Modifying Control: 111 90
+Control Modified: 93 63
+Modifying Control: 93 63
+Control Modified: 98 84
+Modifying Control: 98 84
+Control Modified: 98 0
+Modifying Control: 98 0
+Control Modified: 91 85
+Modifying Control: 91 85
+Control Modified: 94 71
+Modifying Control: 94 71
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 67
+Modifying Control: 103 67
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 95
+Modifying Control: 73 95
+Control Modified: 88 25
+Modifying Control: 88 25
+Control Modified: 96 29
+Modifying Control: 96 29
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 98
+Modifying Control: 70 98
+Control Modified: 79 93
+Modifying Control: 79 93
+Control Modified: 106 80
+Modifying Control: 106 80
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 1
+Modifying Control: 86 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 32
+Received Message: len: 3 bytes: [176 102 32 ]
+Control Modified: 87 28
+Modifying Control: 87 28
+Control Modified: 99 64
+Modifying Control: 99 64
+Control Modified: 91 5
+Modifying Control: 91 5
+Control Modified: 96 16
+Modifying Control: 96 16
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 2
+Modifying Control: 86 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 32
+Received Message: len: 3 bytes: [176 102 32 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 3
+Modifying Control: 86 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 55
+Received Message: len: 3 bytes: [176 102 55 ]
+Control Modified: 101 64
+Modifying Control: 101 64
+Control Modified: 110 86
+Modifying Control: 110 86
+Control Modified: 91 62
+Modifying Control: 91 62
+Control Modified: 91 64
+Modifying Control: 91 64
+Control Modified: 79 15
+Modifying Control: 79 15
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 73
+Modifying Control: 72 73
+Control Modified: 94 41
+Modifying Control: 94 41
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 2
+Modifying Control: 115 2
+Control Modified: 93 31
+Modifying Control: 93 31
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 0
+Modifying Control: 76 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 83
+Received Message: len: 3 bytes: [176 77 83 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 0
+Received Message: len: 3 bytes: [176 78 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 93
+Received Message: len: 3 bytes: [176 79 93 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 98
+Received Message: len: 3 bytes: [176 80 98 ]
+Control Modified: 88 2
+Modifying Control: 88 2
+Control Modified: 77 7
+Modifying Control: 77 7
+Control Modified: 101 12
+Modifying Control: 101 12
+Control Modified: 106 30
+Modifying Control: 106 30
+Control Modified: 84 9
+Modifying Control: 84 9
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 0
+Modifying Control: 104 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 38
+Received Message: len: 3 bytes: [176 106 38 ]
+Control Modified: 110 93
+Modifying Control: 110 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 52
+Modifying Control: 116 52
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 45
+Modifying Control: 74 45
+Control Modified: 78 48
+Modifying Control: 78 48
+Control Modified: 111 12
+Modifying Control: 111 12
+Control Modified: 101 14
+Modifying Control: 101 14
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 2
+Modifying Control: 109 2
+Control Modified: 92 4
+Modifying Control: 92 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 0
+Modifying Control: 115 0
+Control Modified: 89 79
+Modifying Control: 89 79
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 23
+Modifying Control: 108 23
+Control Modified: 88 66
+Modifying Control: 88 66
+Control Modified: 79 98
+Modifying Control: 79 98
+Control Modified: 106 96
+Modifying Control: 106 96
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 3
+Modifying Control: 82 3
+Control Modified: 78 22
+Modifying Control: 78 22
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 92
+Modifying Control: 116 92
+Control Modified: 107 25
+Modifying Control: 107 25
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 2
+Modifying Control: 117 2
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 7
+Modifying Control: 72 7
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 30
+Modifying Control: 118 30
+Control Modified: 112 0
+Modifying Control: 112 0
+Control Modified: 98 99
+Modifying Control: 98 99
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 48
+Modifying Control: 72 48
+Control Modified: 102 40
+Modifying Control: 102 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 75
+Modifying Control: 85 75
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 7
+Modifying Control: 82 7
+Control Modified: 106 97
+Modifying Control: 106 97
+Control Modified: 88 97
+Modifying Control: 88 97
+Control Modified: 98 51
+Modifying Control: 98 51
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 2
+Modifying Control: 86 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 32
+Received Message: len: 3 bytes: [176 102 32 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 25
+Modifying Control: 119 25
+Control Modified: 78 29
+Modifying Control: 78 29
+Control Modified: 90 40
+Modifying Control: 90 40
+Control Modified: 80 47
+Modifying Control: 80 47
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 10
+Modifying Control: 82 10
+Control Modified: 95 92
+Modifying Control: 95 92
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 54
+Modifying Control: 81 54
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 46
+Modifying Control: 118 46
+Control Modified: 84 46
+Modifying Control: 84 46
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 69
+Modifying Control: 108 69
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 63
+Modifying Control: 108 63
+Control Modified: 95 15
+Modifying Control: 95 15
+Control Modified: 91 75
+Modifying Control: 91 75
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 28
+Modifying Control: 85 28
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 2
+Modifying Control: 104 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 2
+Received Message: len: 3 bytes: [176 106 2 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 64
+Modifying Control: 75 64
+Control Modified: 77 62
+Modifying Control: 77 62
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 24
+Modifying Control: 81 24
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 69
+Modifying Control: 119 69
+Control Modified: 100 23
+Modifying Control: 100 23
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 33
+Modifying Control: 70 33
+Control Modified: 95 10
+Modifying Control: 95 10
+Control Modified: 107 36
+Modifying Control: 107 36
+Control Modified: 107 78
+Modifying Control: 107 78
+Control Modified: 113 36
+Modifying Control: 113 36
+Control Modified: 84 64
+Modifying Control: 84 64
+Control Modified: 111 49
+Modifying Control: 111 49
+Control Modified: 105 5
+Modifying Control: 105 5
+Control Modified: 107 4
+Modifying Control: 107 4
+Control Modified: 107 23
+Modifying Control: 107 23
+Control Modified: 84 70
+Modifying Control: 84 70
+Control Modified: 78 68
+Modifying Control: 78 68
+Control Modified: 101 85
+Modifying Control: 101 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 73
+Modifying Control: 72 73
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 94
+Modifying Control: 72 94
+Control Modified: 96 26
+Modifying Control: 96 26
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 72
+Modifying Control: 116 72
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 40
+Modifying Control: 119 40
+Control Modified: 94 19
+Modifying Control: 94 19
+Control Modified: 113 11
+Modifying Control: 113 11
+Control Modified: 111 89
+Modifying Control: 111 89
+Control Modified: 89 65
+Modifying Control: 89 65
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 85
+Modifying Control: 75 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 2
+Modifying Control: 86 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 32
+Received Message: len: 3 bytes: [176 102 32 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 9
+Modifying Control: 85 9
+Control Modified: 84 66
+Modifying Control: 84 66
+Control Modified: 113 74
+Modifying Control: 113 74
+Control Modified: 79 0
+Modifying Control: 79 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 1
+Modifying Control: 115 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 1
+Modifying Control: 109 1
+Control Modified: 92 68
+Modifying Control: 92 68
+Control Modified: 78 31
+Modifying Control: 78 31
+Control Modified: 88 26
+Modifying Control: 88 26
+Control Modified: 80 22
+Modifying Control: 80 22
+Control Modified: 94 79
+Modifying Control: 94 79
+Control Modified: 80 52
+Modifying Control: 80 52
+Control Modified: 102 91
+Modifying Control: 102 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 0
+Modifying Control: 115 0
+Control Modified: 94 64
+Modifying Control: 94 64
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 55
+Modifying Control: 72 55
+Control Modified: 80 74
+Modifying Control: 80 74
+Control Modified: 92 21
+Modifying Control: 92 21
+Control Modified: 92 47
+Modifying Control: 92 47
+Control Modified: 97 89
+Modifying Control: 97 89
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 95
+Modifying Control: 75 95
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 50
+Modifying Control: 114 50
+Control Modified: 113 54
+Modifying Control: 113 54
+Control Modified: 101 12
+Modifying Control: 101 12
+Control Modified: 92 39
+Modifying Control: 92 39
+Control Modified: 98 12
+Modifying Control: 98 12
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 7
+Modifying Control: 82 7
+Control Modified: 78 15
+Modifying Control: 78 15
+Control Modified: 78 23
+Modifying Control: 78 23
+Control Modified: 79 34
+Modifying Control: 79 34
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 86
+Modifying Control: 74 86
+Control Modified: 89 58
+Modifying Control: 89 58
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 2
+Modifying Control: 115 2
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 0
+Modifying Control: 86 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 54
+Received Message: len: 3 bytes: [176 102 54 ]
+Control Modified: 87 92
+Modifying Control: 87 92
+Control Modified: 107 32
+Modifying Control: 107 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 2
+Modifying Control: 76 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 91
+Received Message: len: 3 bytes: [176 78 91 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 57
+Received Message: len: 3 bytes: [176 79 57 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 17
+Received Message: len: 3 bytes: [176 80 17 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 5
+Modifying Control: 117 5
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 22
+Modifying Control: 103 22
+Control Modified: 101 76
+Modifying Control: 101 76
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 48
+Modifying Control: 103 48
+Control Modified: 93 82
+Modifying Control: 93 82
+Control Modified: 88 76
+Modifying Control: 88 76
+Control Modified: 90 11
+Modifying Control: 90 11
+Control Modified: 102 56
+Modifying Control: 102 56
+Control Modified: 110 25
+Modifying Control: 110 25
+Control Modified: 94 86
+Modifying Control: 94 86
+Control Modified: 97 69
+Modifying Control: 97 69
+Control Modified: 113 34
+Modifying Control: 113 34
+Control Modified: 97 68
+Modifying Control: 97 68
+Control Modified: 88 91
+Modifying Control: 88 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 83
+Modifying Control: 116 83
+Control Modified: 98 27
+Modifying Control: 98 27
+Control Modified: 96 71
+Modifying Control: 96 71
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 4
+Modifying Control: 117 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 27
+Modifying Control: 73 27
+Control Modified: 78 45
+Modifying Control: 78 45
+Control Modified: 78 85
+Modifying Control: 78 85
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 37
+Modifying Control: 108 37
+Control Modified: 113 13
+Modifying Control: 113 13
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 50
+Modifying Control: 71 50
+Control Modified: 98 11
+Modifying Control: 98 11
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 49
+Modifying Control: 70 49
+Control Modified: 112 54
+Modifying Control: 112 54
+Control Modified: 89 81
+Modifying Control: 89 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 67
+Modifying Control: 85 67
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 93
+Modifying Control: 83 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 0
+Modifying Control: 104 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 97
+Received Message: len: 3 bytes: [176 106 97 ]
+Control Modified: 92 30
+Modifying Control: 92 30
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 42
+Modifying Control: 71 42
+Control Modified: 97 77
+Modifying Control: 97 77
+Control Modified: 90 2
+Modifying Control: 90 2
+Control Modified: 84 81
+Modifying Control: 84 81
+Control Modified: 110 23
+Modifying Control: 110 23
+Control Modified: 107 23
+Modifying Control: 107 23
+Control Modified: 99 95
+Modifying Control: 99 95
+Control Modified: 89 27
+Modifying Control: 89 27
+Control Modified: 112 10
+Modifying Control: 112 10
+Control Modified: 102 58
+Modifying Control: 102 58
+Control Modified: 96 87
+Modifying Control: 96 87
+Control Modified: 90 28
+Modifying Control: 90 28
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 58
+Modifying Control: 71 58
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 60
+Modifying Control: 83 60
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 86
+Modifying Control: 103 86
+Control Modified: 112 10
+Modifying Control: 112 10
+Control Modified: 92 28
+Modifying Control: 92 28
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 1
+Modifying Control: 104 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 97
+Received Message: len: 3 bytes: [176 106 97 ]
+Control Modified: 88 3
+Modifying Control: 88 3
+Control Modified: 87 65
+Modifying Control: 87 65
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 81
+Modifying Control: 108 81
+Control Modified: 77 50
+Modifying Control: 77 50
+Control Modified: 84 98
+Modifying Control: 84 98
+Control Modified: 78 61
+Modifying Control: 78 61
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 56
+Modifying Control: 83 56
+Control Modified: 77 78
+Modifying Control: 77 78
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 3
+Modifying Control: 109 3
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 75
+Modifying Control: 85 75
+Control Modified: 106 86
+Modifying Control: 106 86
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 60
+Modifying Control: 103 60
+Control Modified: 100 48
+Modifying Control: 100 48
+Control Modified: 98 92
+Modifying Control: 98 92
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 40
+Modifying Control: 103 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 3
+Modifying Control: 86 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 40
+Received Message: len: 3 bytes: [176 102 40 ]
+Control Modified: 80 99
+Modifying Control: 80 99
+Control Modified: 107 92
+Modifying Control: 107 92
+Control Modified: 102 28
+Modifying Control: 102 28
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 69
+Modifying Control: 72 69
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 94
+Modifying Control: 114 94
+Control Modified: 78 52
+Modifying Control: 78 52
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 0
+Modifying Control: 117 0
+Control Modified: 105 8
+Modifying Control: 105 8
+Control Modified: 84 97
+Modifying Control: 84 97
+Control Modified: 113 49
+Modifying Control: 113 49
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 41
+Modifying Control: 85 41
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 0
+Modifying Control: 109 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 3
+Modifying Control: 82 3
+Control Modified: 93 51
+Modifying Control: 93 51
+Control Modified: 94 33
+Modifying Control: 94 33
+Control Modified: 111 0
+Modifying Control: 111 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 90
+Modifying Control: 74 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 3
+Modifying Control: 117 3
+Control Modified: 100 78
+Modifying Control: 100 78
+Control Modified: 101 44
+Modifying Control: 101 44
+Control Modified: 110 87
+Modifying Control: 110 87
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 25
+Modifying Control: 119 25
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 38
+Modifying Control: 103 38
+Control Modified: 112 93
+Modifying Control: 112 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 11
+Modifying Control: 72 11
+Control Modified: 80 34
+Modifying Control: 80 34
+Control Modified: 110 97
+Modifying Control: 110 97
+Control Modified: 105 29
+Modifying Control: 105 29
+Control Modified: 110 5
+Modifying Control: 110 5
+Control Modified: 111 92
+Modifying Control: 111 92
+Control Modified: 80 49
+Modifying Control: 80 49
+Control Modified: 98 79
+Modifying Control: 98 79
+Control Modified: 91 77
+Modifying Control: 91 77
+Control Modified: 93 93
+Modifying Control: 93 93
+Control Modified: 90 97
+Modifying Control: 90 97
+Control Modified: 96 76
+Modifying Control: 96 76
+Control Modified: 110 82
+Modifying Control: 110 82
+Control Modified: 98 59
+Modifying Control: 98 59
+Control Modified: 88 89
+Modifying Control: 88 89
+Control Modified: 79 49
+Modifying Control: 79 49
+Control Modified: 94 72
+Modifying Control: 94 72
+Control Modified: 100 8
+Modifying Control: 100 8
+Control Modified: 87 8
+Modifying Control: 87 8
+Control Modified: 97 3
+Modifying Control: 97 3
+Control Modified: 90 7
+Modifying Control: 90 7
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 74
+Modifying Control: 116 74
+Control Modified: 92 11
+Modifying Control: 92 11
+Control Modified: 89 61
+Modifying Control: 89 61
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 2
+Modifying Control: 76 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 52
+Received Message: len: 3 bytes: [176 78 52 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 49
+Received Message: len: 3 bytes: [176 79 49 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 49
+Received Message: len: 3 bytes: [176 80 49 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 83
+Modifying Control: 83 83
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 0
+Modifying Control: 86 0
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 58
+Received Message: len: 3 bytes: [176 102 58 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 41
+Modifying Control: 72 41
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 13
+Modifying Control: 74 13
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 6
+Modifying Control: 82 6
+Control Modified: 80 15
+Modifying Control: 80 15
+Patch Modified: 55 Brit 50's         
+Control Modified: 74 99
+Modifying Control: 74 99
+Control Modified: 106 80
+Modifying Control: 106 80
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 32
+Modifying Control: 118 32
+Control Modified: 107 84
+Modifying Control: 107 84
+Control Modified: 110 17
+Modifying Control: 110 17
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 2
+Modifying Control: 76 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 52
+Received Message: len: 3 bytes: [176 78 52 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 49
+Received Message: len: 3 bytes: [176 79 49 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 15
+Received Message: len: 3 bytes: [176 80 15 ]
+Control Modified: 111 82
+Modifying Control: 111 82
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 23
+Modifying Control: 119 23
+Control Modified: 78 5
+Modifying Control: 78 5
+Control Modified: 91 95
+Modifying Control: 91 95
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 16
+Modifying Control: 116 16
+Control Modified: 98 78
+Modifying Control: 98 78
+Control Modified: 99 58
+Modifying Control: 99 58
+Control Modified: 97 50
+Modifying Control: 97 50
+Control Modified: 77 29
+Modifying Control: 77 29
+Control Modified: 101 95
+Modifying Control: 101 95
+Control Modified: 98 76
+Modifying Control: 98 76
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 99
+Modifying Control: 73 99
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 1
+Modifying Control: 104 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 80
+Received Message: len: 3 bytes: [176 106 80 ]
+Control Modified: 113 8
+Modifying Control: 113 8
+Control Modified: 92 43
+Modifying Control: 92 43
+Control Modified: 99 14
+Modifying Control: 99 14
+Control Modified: 88 55
+Modifying Control: 88 55
+Control Modified: 111 73
+Modifying Control: 111 73
+Control Modified: 92 48
+Modifying Control: 92 48
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 86
+Modifying Control: 71 86
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 46
+Modifying Control: 114 46
+Control Modified: 97 17
+Modifying Control: 97 17
+Control Modified: 99 16
+Modifying Control: 99 16
+Control Modified: 94 91
+Modifying Control: 94 91
+Control Modified: 89 12
+Modifying Control: 89 12
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 93
+Modifying Control: 116 93
+Control Modified: 111 15
+Modifying Control: 111 15
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 57
+Modifying Control: 119 57
+Control Modified: 110 52
+Modifying Control: 110 52
+Control Modified: 106 51
+Modifying Control: 106 51
+Control Modified: 107 26
+Modifying Control: 107 26
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 10
+Modifying Control: 82 10
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 94
+Modifying Control: 103 94
+Control Modified: 100 97
+Modifying Control: 100 97
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 65
+Modifying Control: 85 65
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 61
+Modifying Control: 83 61
+Control Modified: 98 78
+Modifying Control: 98 78
+Control Modified: 98 40
+Modifying Control: 98 40
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 47
+Modifying Control: 81 47
+Patch Modified: 55 Brit 50's         
+Control Modified: 115 2
+Modifying Control: 115 2
+Control Modified: 95 89
+Modifying Control: 95 89
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 49
+Modifying Control: 70 49
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 65
+Modifying Control: 103 65
+Control Modified: 84 82
+Modifying Control: 84 82
+Control Modified: 77 32
+Modifying Control: 77 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 67
+Modifying Control: 116 67
+Control Modified: 92 82
+Modifying Control: 92 82
+Control Modified: 80 41
+Modifying Control: 80 41
+Control Modified: 101 87
+Modifying Control: 101 87
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 79
+Modifying Control: 75 79
+Control Modified: 91 38
+Modifying Control: 91 38
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 47
+Modifying Control: 71 47
+Control Modified: 78 46
+Modifying Control: 78 46
+Control Modified: 96 59
+Modifying Control: 96 59
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 2
+Modifying Control: 109 2
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 2
+Modifying Control: 86 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 91
+Received Message: len: 3 bytes: [176 102 91 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 28
+Modifying Control: 75 28
+Control Modified: 84 60
+Modifying Control: 84 60
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 77
+Modifying Control: 73 77
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 3
+Modifying Control: 118 3
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 31
+Modifying Control: 81 31
+Control Modified: 102 55
+Modifying Control: 102 55
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 6
+Modifying Control: 117 6
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 21
+Modifying Control: 72 21
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 81
+Modifying Control: 116 81
+Control Modified: 91 55
+Modifying Control: 91 55
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 0
+Modifying Control: 117 0
+Control Modified: 88 35
+Modifying Control: 88 35
+Control Modified: 96 74
+Modifying Control: 96 74
+Control Modified: 79 98
+Modifying Control: 79 98
+Control Modified: 94 53
+Modifying Control: 94 53
+Control Modified: 92 35
+Modifying Control: 92 35
+Control Modified: 113 88
+Modifying Control: 113 88
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 32
+Modifying Control: 73 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 0
+Modifying Control: 117 0
+Control Modified: 96 78
+Modifying Control: 96 78
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 1
+Modifying Control: 70 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 99
+Modifying Control: 81 99
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 63
+Modifying Control: 75 63
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 1
+Modifying Control: 86 1
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 55
+Received Message: len: 3 bytes: [176 102 55 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 45
+Modifying Control: 81 45
+Control Modified: 93 74
+Modifying Control: 93 74
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 53
+Modifying Control: 70 53
+Control Modified: 101 87
+Modifying Control: 101 87
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 10
+Modifying Control: 119 10
+Control Modified: 113 65
+Modifying Control: 113 65
+Control Modified: 92 29
+Modifying Control: 92 29
+Control Modified: 101 12
+Modifying Control: 101 12
+Control Modified: 96 81
+Modifying Control: 96 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 2
+Modifying Control: 117 2
+Control Modified: 91 5
+Modifying Control: 91 5
+Control Modified: 92 32
+Modifying Control: 92 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 109 0
+Modifying Control: 109 0
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 31
+Modifying Control: 85 31
+Control Modified: 78 93
+Modifying Control: 78 93
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 2
+Modifying Control: 76 2
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 0
+Received Message: len: 3 bytes: [176 77 0 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 93
+Received Message: len: 3 bytes: [176 78 93 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 98
+Received Message: len: 3 bytes: [176 79 98 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 41
+Received Message: len: 3 bytes: [176 80 41 ]
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 6
+Modifying Control: 118 6
+Control Modified: 91 66
+Modifying Control: 91 66
+Patch Modified: 55 Brit 50's         
+Control Modified: 116 97
+Modifying Control: 116 97
+Control Modified: 90 94
+Modifying Control: 90 94
+Control Modified: 99 88
+Modifying Control: 99 88
+Control Modified: 79 84
+Modifying Control: 79 84
+Control Modified: 89 78
+Modifying Control: 89 78
+Control Modified: 87 15
+Modifying Control: 87 15
+Control Modified: 96 84
+Modifying Control: 96 84
+Control Modified: 88 6
+Modifying Control: 88 6
+Control Modified: 98 97
+Modifying Control: 98 97
+Control Modified: 88 90
+Modifying Control: 88 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 119 85
+Modifying Control: 119 85
+Control Modified: 106 99
+Modifying Control: 106 99
+Control Modified: 90 10
+Modifying Control: 90 10
+Control Modified: 91 13
+Modifying Control: 91 13
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 85
+Modifying Control: 85 85
+Control Modified: 88 80
+Modifying Control: 88 80
+Control Modified: 101 67
+Modifying Control: 101 67
+Control Modified: 107 44
+Modifying Control: 107 44
+Control Modified: 106 7
+Modifying Control: 106 7
+Control Modified: 80 27
+Modifying Control: 80 27
+Control Modified: 94 31
+Modifying Control: 94 31
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 71
+Modifying Control: 72 71
+Control Modified: 88 93
+Modifying Control: 88 93
+Control Modified: 105 37
+Modifying Control: 105 37
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 4
+Modifying Control: 81 4
+Control Modified: 97 6
+Modifying Control: 97 6
+Control Modified: 88 22
+Modifying Control: 88 22
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 0
+Modifying Control: 83 0
+Control Modified: 112 37
+Modifying Control: 112 37
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 88
+Modifying Control: 108 88
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 89
+Modifying Control: 75 89
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 1
+Modifying Control: 117 1
+Control Modified: 113 84
+Modifying Control: 113 84
+Control Modified: 107 61
+Modifying Control: 107 61
+Control Modified: 113 17
+Modifying Control: 113 17
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 82
+Modifying Control: 71 82
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 1
+Modifying Control: 117 1
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 4
+Modifying Control: 73 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 104 3
+Modifying Control: 104 3
+Control Modified: 95 21
+Modifying Control: 95 21
+MESSAGE_CONTROL_CHANGE
+Control Modified: 106 7
+Received Message: len: 3 bytes: [176 106 7 ]
+Control Modified: 84 81
+Modifying Control: 84 81
+Control Modified: 92 6
+Modifying Control: 92 6
+Patch Modified: 55 Brit 50's         
+Control Modified: 76 3
+Modifying Control: 76 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 77 24
+Received Message: len: 3 bytes: [176 77 24 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 78 60
+Received Message: len: 3 bytes: [176 78 60 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 79 63
+Received Message: len: 3 bytes: [176 79 63 ]
+MESSAGE_CONTROL_CHANGE
+Control Modified: 80 71
+Received Message: len: 3 bytes: [176 80 71 ]
+Control Modified: 113 80
+Modifying Control: 113 80
+Control Modified: 100 68
+Modifying Control: 100 68
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 13
+Modifying Control: 81 13
+Control Modified: 88 51
+Modifying Control: 88 51
+Patch Modified: 55 Brit 50's         
+Control Modified: 86 3
+Modifying Control: 86 3
+MESSAGE_CONTROL_CHANGE
+Control Modified: 102 28
+Received Message: len: 3 bytes: [176 102 28 ]
+Control Modified: 88 40
+Modifying Control: 88 40
+Control Modified: 101 33
+Modifying Control: 101 33
+Control Modified: 99 63
+Modifying Control: 99 63
+Control Modified: 79 53
+Modifying Control: 79 53
+Control Modified: 106 95
+Modifying Control: 106 95
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 74
+Modifying Control: 85 74
+Control Modified: 90 35
+Modifying Control: 90 35
+Control Modified: 100 76
+Modifying Control: 100 76
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 25
+Modifying Control: 75 25
+Control Modified: 91 8
+Modifying Control: 91 8
+Control Modified: 79 56
+Modifying Control: 79 56
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 32
+Modifying Control: 72 32
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 40
+Modifying Control: 75 40
+Control Modified: 95 62
+Modifying Control: 95 62
+Control Modified: 105 62
+Modifying Control: 105 62
+Control Modified: 100 36
+Modifying Control: 100 36
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 2
+Modifying Control: 117 2
+Control Modified: 78 80
+Modifying Control: 78 80
+Control Modified: 110 76
+Modifying Control: 110 76
+Control Modified: 78 93
+Modifying Control: 78 93
+Control Modified: 110 46
+Modifying Control: 110 46
+Control Modified: 94 73
+Modifying Control: 94 73
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 0
+Modifying Control: 117 0
+Control Modified: 105 72
+Modifying Control: 105 72
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 7
+Modifying Control: 70 7
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 66
+Modifying Control: 75 66
+Control Modified: 111 88
+Modifying Control: 111 88
+Control Modified: 101 68
+Modifying Control: 101 68
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 96
+Modifying Control: 85 96
+Control Modified: 95 9
+Modifying Control: 95 9
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 6
+Modifying Control: 82 6
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 62
+Modifying Control: 75 62
+Control Modified: 113 42
+Modifying Control: 113 42
+Control Modified: 91 22
+Modifying Control: 91 22
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 3
+Modifying Control: 82 3
+Control Modified: 88 68
+Modifying Control: 88 68
+Control Modified: 87 14
+Modifying Control: 87 14
+Patch Modified: 55 Brit 50's         
+Control Modified: 70 90
+Modifying Control: 70 90
+Control Modified: 105 59
+Modifying Control: 105 59
+Control Modified: 89 95
+Modifying Control: 89 95
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 40
+Modifying Control: 73 40
+Control Modified: 99 99
+Modifying Control: 99 99
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 91
+Modifying Control: 75 91
+Patch Modified: 55 Brit 50's         
+Control Modified: 81 81
+Modifying Control: 81 81
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 53
+Modifying Control: 72 53
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 29
+Modifying Control: 103 29
+Control Modified: 107 42
+Modifying Control: 107 42
+Patch Modified: 55 Brit 50's         
+Control Modified: 73 83
+Modifying Control: 73 83
+Control Modified: 90 14
+Modifying Control: 90 14
+Control Modified: 88 44
+Modifying Control: 88 44
+Patch Modified: 55 Brit 50's         
+Control Modified: 83 29
+Modifying Control: 83 29
+Patch Modified: 55 Brit 50's         
+Control Modified: 72 64
+Modifying Control: 72 64
+Control Modified: 89 70
+Modifying Control: 89 70
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 47
+Modifying Control: 75 47
+Patch Modified: 55 Brit 50's         
+Control Modified: 114 87
+Modifying Control: 114 87
+Control Modified: 96 76
+Modifying Control: 96 76
+Control Modified: 93 40
+Modifying Control: 93 40
+Control Modified: 99 90
+Modifying Control: 99 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 10
+Modifying Control: 108 10
+Control Modified: 91 45
+Modifying Control: 91 45
+Control Modified: 91 70
+Modifying Control: 91 70
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 89
+Modifying Control: 103 89
+Patch Modified: 55 Brit 50's         
+Control Modified: 75 78
+Modifying Control: 75 78
+Control Modified: 99 6
+Modifying Control: 99 6
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 5
+Modifying Control: 82 5
+Control Modified: 107 96
+Modifying Control: 107 96
+Patch Modified: 55 Brit 50's         
+Control Modified: 103 88
+Modifying Control: 103 88
+Control Modified: 105 79
+Modifying Control: 105 79
+Control Modified: 113 90
+Modifying Control: 113 90
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 5
+Modifying Control: 82 5
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 5
+Modifying Control: 71 5
+Control Modified: 77 67
+Modifying Control: 77 67
+Control Modified: 89 34
+Modifying Control: 89 34
+Control Modified: 91 57
+Modifying Control: 91 57
+Patch Modified: 55 Brit 50's         
+Control Modified: 118 45
+Modifying Control: 118 45
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 2
+Modifying Control: 117 2
+Patch Modified: 55 Brit 50's         
+Control Modified: 108 44
+Modifying Control: 108 44
+Control Modified: 92 63
+Modifying Control: 92 63
+Control Modified: 98 64
+Modifying Control: 98 64
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 23
+Modifying Control: 71 23
+Control Modified: 110 4
+Modifying Control: 110 4
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 27
+Modifying Control: 71 27
+Patch Modified: 55 Brit 50's         
+Control Modified: 117 4
+Modifying Control: 117 4
+Control Modified: 91 63
+Modifying Control: 91 63
+Patch Modified: 55 Brit 50's         
+Control Modified: 71 63
+Modifying Control: 71 63
+Control Modified: 91 65
+Modifying Control: 91 65
+Control Modified: 91 45
+Modifying Control: 91 45
+Control Modified: 80 95
+Modifying Control: 80 95
+Control Modified: 111 22
+Modifying Control: 111 22
+Patch Modified: 55 Brit 50's         
+Control Modified: 82 6
+Modifying Control: 82 6
+Patch Modified: 55 Brit 50's         
+Control Modified: 85 55
+Modifying Control: 85 55
+Control Modified: 113 38
+Modifying Control: 113 38
+Control Modified: 99 82
+Modifying Control: 99 82
+Patch Committed: 55 Brit 50's         
+Set Patch ERROR
